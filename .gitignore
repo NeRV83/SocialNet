@@ -58,7 +58,6 @@ bin/
 .sts4-cache
 
 ### Package Files ###
-*.jar
 *.war
 *.nar
 *.ear
